@@ -9,7 +9,7 @@ defaultContentLanguageInSubdir= true
 #definición de diferentes idiomas
 [Languages]
     [Languages.es]
-        title = 'Apuntes DAW 2º - distancia'
+        title = 'Apuntes DAW 2º - dista   ncia'
         weight = 1
         contentDir = 'content/es'
         languageName = 'Español'
