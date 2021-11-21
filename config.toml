@@ -1,4 +1,4 @@
-baseURL = 'https://dgarciatorres/dwes-practica-1/docs'
+baseURL = 'https://dgarciatorres.github.io/dwes-practica-1/docs'
 languageCode = 'es-ES'
 title = 'Apuntes DAW 2º - distancia'
 theme = 'learn'
