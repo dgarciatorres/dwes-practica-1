@@ -18,7 +18,7 @@ Para desarrollar una aplicación o programa
 3. Hay que realizar esa planificación y probarla
 
 {{% notice note %}}
-![Conexión TCP - negociación en tres pasos](/docs/images/DesarrolloAplicaciones.jpeg)
+![Conexión TCP - negociación en tres pasos](/images/DesarrolloAplicaciones.jpeg)
 {{% /notice %}}
 
 ## Aplicación Web

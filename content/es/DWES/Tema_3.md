@@ -22,7 +22,7 @@ Actualmente está la versión 7.4.3 actualizada el 23/9/2021 es considerada la
 
 
 {{% notice info %}}
-![Proceso PHP](/docs/images/ProcesoPHP.png)
+![Proceso PHP](/images/ProcesoPHP.png)
 {{% /notice %}}
 
 
